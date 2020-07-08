@@ -1,4 +1,4 @@
 ## ~ Lol check these comics out ~
-1_swfish_or.png
-2_ngo_or.png
-3_ngo_or.png
+[![](img/1_swfish_or.png)](https://yokkidack.github.io/SwearingFishComicOriginal/)
+[![](img/2_ngo_or.png)](https://yokkidack.github.io/)
+[![](img/3_ngo_or.png)](https://yokkidack.github.io/)
